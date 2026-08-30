@@ -1,2 +1,1 @@
-# issues-hugo-public
-issues-hugo-public
+# issues-hugo.shenjuexiao.com
